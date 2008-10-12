@@ -1,0 +1,5 @@
+# OpenVZ Configuration File
+
+hostname: unixpod.com
+username: charlie
+password: passwordhere
